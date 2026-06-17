@@ -16,7 +16,7 @@ Sou estudante do curso de **Análise e Desenvolvimento de Sistemas** e gosto de 
 - 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-durande-51a4952b8?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - ✉️ [E-mail](mailto:guilhermedurande@gmail.com)
 
-### Estatíscas do GitHub
+### Estatísticas do GitHub
 ---
 <br>
 <div align="center">
